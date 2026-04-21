@@ -81,7 +81,7 @@ Portfolio_app/
 ☁ Deployment
 This project is deployed using Streamlit Community Cloud
 GitHub Repository Link
-(https://jiecamariemalacad08-cpu.github.io/Malacad_MultipageApp_CS3B/)
+(https://github.com/jiecamariemalacad08-cpu/Malacad_MultipageApp_CS3B)
 Streamlit Live App Link
 (https://malacadmultipageappcs3b-azzjwmwdp9upglhd4uhfao.streamlit.app/)
 
