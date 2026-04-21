@@ -98,8 +98,8 @@ This project was developed as part of an academic requirement for building a mul
 
 It aims to demonstrate:
 
-UI/UX design skills
-Python programming knowledge
-Web deployment process
-GitHub repository management
-Creativity and originality
+- UI/UX design skills
+- Python programming knowledge
+- Web deployment process
+- GitHub repository management
+- Creativity and originality
