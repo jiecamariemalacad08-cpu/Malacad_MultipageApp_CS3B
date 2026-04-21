@@ -77,3 +77,29 @@ Portfolio_app/
 │   └── 6.game.py
 │
 └── README.md
+
+☁ Deployment
+This project is deployed using Streamlit Community Cloud
+GitHub Repository Link
+(https://jiecamariemalacad08-cpu.github.io/Malacad_MultipageApp_CS3B/)
+Streamlit Live App Link
+(https://malacadmultipageappcs3b-azzjwmwdp9upglhd4uhfao.streamlit.app/)
+
+👩‍🎓 Student Information
+Name:
+Jieca Marie Juarez Malacad
+Course:
+Bachelor of Science in Computer Science
+School:
+DEBESMSCAT
+
+💡 Purpose of this Project
+This project was developed as part of an academic requirement for building a multipage web application using Streamlit.
+
+It aims to demonstrate:
+
+UI/UX design skills
+Python programming knowledge
+Web deployment process
+GitHub repository management
+Creativity and originality
